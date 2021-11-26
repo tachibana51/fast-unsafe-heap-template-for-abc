@@ -1,2 +1,3 @@
 # fast-unsafe-heap-template-for-abc
-rough memory allocation template only for AtCoder
+rough memory allocation template only for AtCoder  
+for C/C++
